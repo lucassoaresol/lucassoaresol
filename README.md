@@ -3,7 +3,7 @@ Olá! Eu sou o Lucas Soares ![](https://user-images.githubusercontent.com/183505
 
 Estudante de Sistemas de Informação no Centro Universitário União das Américas Descomplica
 
-Conclui recentemente um curso intensivo de Desenvolvimento Web Front-End e estou em busca de uma oportunidade de me alocar no mercado de trabalho como desenvolvedor. Sou apaixonado por tecnologia, estou sempre disponível para novos desafios e aprendizados. 
+Conclui recentemente um curso intensivo de Programação Full Stack e estou em busca de uma oportunidade de me alocar no mercado de trabalho como desenvolvedor. Sou apaixonado por tecnologia, estou sempre disponível para novos desafios e aprendizados. 
 
 ### Skills
 
