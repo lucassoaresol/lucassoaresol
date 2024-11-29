@@ -1,7 +1,7 @@
 Olá! Eu sou o Lucas Soares ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================
 
-Estudante de Sistemas de Informação no Centro Universitário União das Américas Descomplica
+Estudante de Engenharia da Computação na Universidade de Fortaleza
 
 Conclui recentemente um curso intensivo de Programação Full Stack e estou em busca de uma oportunidade de me alocar no mercado de trabalho como desenvolvedor. Sou apaixonado por tecnologia, estou sempre disponível para novos desafios e aprendizados. 
 
